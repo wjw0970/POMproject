@@ -1,0 +1,3 @@
+# myFirstPOMproject
+
+tryout POM
